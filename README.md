@@ -1,12 +1,5 @@
 # Pomodoro Timer 
-
-<br/>
-
-## Features
-- Customizable work and break intervals
-- Start, pause, and reset functionality
-- Visual and auditory notifications for session changes
-- Simple and user-friendly interface
+simple pomodoro timer
 
 <br/>
 
